@@ -1,0 +1,11 @@
+{
+    "item.minecraft.potion.effect.darkness": "Зелье тьмы",
+    "item.minecraft.potion.effect.darkness_long": "Зелье тьмы",
+    "item.minecraft.splash_potion.effect.darkness": "Взрывное зелье тьмы",
+    "item.minecraft.splash_potion.effect.darkness_long": "Взрывное зелье тьмы",
+    "item.minecraft.lingering_potion.effect.darkness": "Туманное зелье тьмы",
+    "item.minecraft.lingering_potion.effect.darkness_long": "Туманное зелье тьмы",
+
+    "modmenu.summaryTranslation.darkness-in-the-bottle": "Добавляет зелья с эффектом тьмы.",
+    "modmenu.descriptionTranslation.darkness-in-the-bottle": "Добавляет обычные, взрывные и туманные зелья с эффектом тьмы."
+}

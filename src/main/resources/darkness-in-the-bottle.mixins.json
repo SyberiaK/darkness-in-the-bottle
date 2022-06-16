@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.syberiak.darknessinthebottle.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "DarknessPotionRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
