@@ -3,7 +3,7 @@
 A simple Minecraft mod for Fabric that adds regular, splash and lingering potions with Darkness effect.
 Can be made in brewing stand by adding an echo chard to a potion of Night Vision.
 
-![brewing_potion](https://us-east-1.tixte.net/uploads/syberiak.is-from.space/potion_of_darkness.mp4)
+![brewing_potion](https://us-east-1.tixte.net/uploads/syberiak.is-from.space/potion_of_darkness.gif)
 
 ## Building
 
