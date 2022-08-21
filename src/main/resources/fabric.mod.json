@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Darkness in The Bottle",
-  "description": "Adds potions with Darkness effect.",
+  "description": "Adds potions and tipped arrows with Darkness effect.",
   "authors": [
     "SyberiaK"
   ],
@@ -32,8 +32,5 @@
     "fabric": "*",
     "minecraft": "~1.19",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }

@@ -5,7 +5,9 @@
     "item.minecraft.splash_potion.effect.darkness_long": "Splash Potion of Darkness",
     "item.minecraft.lingering_potion.effect.darkness": "Lingering Potion of Darkness",
     "item.minecraft.lingering_potion.effect.darkness_long": "Lingering Potion of Darkness",
+    "item.minecraft.tipped_arrow.effect.darkness": "Arrow of Darkness",
+    "item.minecraft.tipped_arrow.effect.darkness_long": "Arrow of Darkness",
 
-    "modmenu.summaryTranslation.darkness-in-the-bottle": "Adds potions with Darkness effect.",
-    "modmenu.descriptionTranslation.darkness-in-the-bottle": "Adds regular, splash and lingering potions with Darkness effect."
+    "modmenu.summaryTranslation.darkness-in-the-bottle": "Adds potions and tipped arrows with Darkness effect.",
+    "modmenu.descriptionTranslation.darkness-in-the-bottle": "Adds regular, splash, lingering potions and tipped arrows with Darkness effect."
 }
