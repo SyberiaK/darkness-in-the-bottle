@@ -23,6 +23,7 @@ public class DarknessPotionRecipeMixin {
 	@Inject(at = @At("TAIL"), method = "registerDefaults()V")
     private static void RegisterDefaults(CallbackInfo ci) {
         registerPotionRecipe(Potions.NIGHT_VISION, Items.ECHO_SHARD, DarknessInTheBottle.DARKNESS_POTION);
+        registerPotionRecipe(Potions.LONG_NIGHT_VISION, Items.ECHO_SHARD, DarknessInTheBottle.LONG_DARKNESS_POTION);
         registerPotionRecipe(DarknessInTheBottle.DARKNESS_POTION, Items.REDSTONE, DarknessInTheBottle.LONG_DARKNESS_POTION);
     }
 }
