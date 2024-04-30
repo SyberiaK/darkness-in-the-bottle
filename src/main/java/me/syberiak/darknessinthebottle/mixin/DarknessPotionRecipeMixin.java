@@ -1,6 +1,5 @@
-package net.syberiak.darknessinthebottle.mixin;
+package me.syberiak.darknessinthebottle.mixin;
 
-import net.syberiak.darknessinthebottle.DarknessInTheBottle;
 import net.minecraft.item.Item;
 import net.minecraft.item.Items;
 import net.minecraft.potion.Potion;
@@ -11,6 +10,8 @@ import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+
+import me.syberiak.darknessinthebottle.DarknessInTheBottle;
 
 @Mixin(BrewingRecipeRegistry.class)
 public class DarknessPotionRecipeMixin {

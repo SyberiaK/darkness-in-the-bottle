@@ -1,4 +1,4 @@
-package net.syberiak.darknessinthebottle;
+package me.syberiak.darknessinthebottle;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
