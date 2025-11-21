@@ -23,13 +23,13 @@ public class DarknessInTheBottle implements ModInitializer {
 	public static void registerPotions() {
 		DARKNESS = Registry.register(
 				BuiltInRegistries.POTION,
-				ResourceLocation.fromNamespaceAndPath(MOD_ID, "darkness"),
+				ResourceLocation.tryBuild(MOD_ID, "darkness"),
 				new Potion("darkness", new MobEffectInstance(MobEffects.DARKNESS, 900))
 		);
 
 		LONG_DARKNESS = Registry.register(
 				BuiltInRegistries.POTION,
-				ResourceLocation.fromNamespaceAndPath(MOD_ID, "darkness_long"),
+				ResourceLocation.tryBuild(MOD_ID, "darkness_long"),
 				new Potion("darkness_long", new MobEffectInstance(MobEffects.DARKNESS, 1800))
 		);
 	}
